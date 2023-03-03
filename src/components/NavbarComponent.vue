@@ -6,7 +6,8 @@
         <router-link class="nav-link" to="/">Home</router-link>
         <router-link class="nav-link" to="/about">About</router-link>
         <router-link class="nav-link" to="/products">Products</router-link>
-         <router-link class="nav-link" to="/login">後台</router-link>
+        <router-link class="nav-link" to="/cart">購物車</router-link>
+        <router-link class="nav-link" to="/login">後台</router-link>
       </div>
     </div>
   </div>
